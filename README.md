@@ -2,7 +2,7 @@ Joshua Dinata
 100921955
 
 Target Practice 
-Game spawns targets in which the player simply left clicks to destroy them, the player also have ability to move around and look around
+Game spawns targets in which the player simply left clicks to destroy them, the player also have ability to move around and look around. The player wins when destroyed 30 targets, but there is a chance that less than 30 spawn!
 
 
 Reflection:
