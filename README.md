@@ -4,6 +4,7 @@ Joshua Dinata
 Target Practice 
 Game spawns targets in which the player simply left clicks to destroy them, the player also have ability to move around and look around. The player wins when destroyed 30 targets, but there is a chance that less than 30 spawn!
 
+Flowchart: https://www.canva.com/design/DAGzdKmG5qU/ilIvb6C8S5qkEpeQdrIEpQ/edit?referrer=flowcharts-landing-page
 
 Reflection:
 The system I have that uses Singleton is Score and Target spawn
