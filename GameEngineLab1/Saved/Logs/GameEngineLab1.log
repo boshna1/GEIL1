@@ -8818,3 +8818,49 @@ Make sure '/Game/Blueprints/BP_GameInstance.BP_GameInstance_C' has been compiled
 [2025.09.19-20.59.05:132][411]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2025.09.19-20.59.08:701][524]LogSlate: Window 'Message Log' being destroyed
 [2025.09.19-20.59.08:709][524]LogSlate: Window 'Message Log' being destroyed
+[2025.09.19-21.01.45:105][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.19-21.01.45:109][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map1' took 0.041
+[2025.09.19-21.01.45:110][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.09.19-21.01.45:152][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2025.09.19-21.01.45:153][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2025.09.19-21.01.45:173][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto5
+[2025.09.19-21.01.45:173][115]LogSavePackage: Moving '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Saved/BP_PlayerCharacter_Auto5FB87BB09405B2B2EF3A015927F9B89D2.tmp' to '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto5.uasset'
+[2025.09.19-21.01.45:173][115]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.09.19-21.01.59:070][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4743.186523
+[2025.09.19-21.02.00:070][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-21.02.00:070][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4743.854492, Update Interval: 311.786865
+[2025.09.19-21.02.51:655][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-21.02.51:694][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.09.19-21.02.51:694][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.09.19-21.02.51:694][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2025.09.19-21.02.51:708][190]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.09.19-21.02.51:708][190]LogSavePackage: Moving '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Saved/BP_GameInstance9A2C69B143E62A27B87F908B0901D9D5.tmp' to '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Content/Blueprints/BP_GameInstance.uasset'
+[2025.09.19-21.02.51:722][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.324 ms (total: 3.65 sec)
+[2025.09.19-21.02.51:755][190]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-21.02.51:755][190]LogContentValidation: Enabled validators:
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-21.02.51:755][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-21.02.51:755][190]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.09.19-21.02.57:647][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-21.02.57:682][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.09.19-21.02.57:682][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.09.19-21.02.57:682][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2025.09.19-21.02.57:694][543]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.09.19-21.02.57:694][543]LogSavePackage: Moving '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Saved/BP_GameInstanceEFC46C3E49A55BA8337565974D4CB931.tmp' to '../../../../../../Users/joshu/Documents/Unreal Projects/GEIL1/GameEngineLab1/Content/Blueprints/BP_GameInstance.uasset'
+[2025.09.19-21.02.57:704][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.419 ms (total: 3.71 sec)
+[2025.09.19-21.02.57:741][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-21.02.57:741][543]LogContentValidation: Enabled validators:
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-21.02.57:741][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-21.02.57:741][543]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.09.19-21.07.58:663][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5102.781738
+[2025.09.19-21.07.59:662][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-21.07.59:662][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5103.449707, Update Interval: 318.300110
